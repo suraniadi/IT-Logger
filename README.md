@@ -4,8 +4,6 @@ Usage
 
 ### `npm install`
 
-<br>
-
 ### `npm run dev`
 
 Runs the app with the backend JSON-Server
